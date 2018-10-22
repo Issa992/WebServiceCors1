@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceCors1", "WebServiceCors1\WebServiceCors1.csproj", "{BA2362A1-2DB5-40BD-B046-A1A270692364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2362A1-2DB5-40BD-B046-A1A270692364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2362A1-2DB5-40BD-B046-A1A270692364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2362A1-2DB5-40BD-B046-A1A270692364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2362A1-2DB5-40BD-B046-A1A270692364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E226229F-AC71-4DE7-A075-F9972CB6CAD4}
+	EndGlobalSection
+EndGlobal
