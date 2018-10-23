@@ -9,6 +9,7 @@ using System.Web.Http.Cors;
 namespace WebServiceCors1.Controllers
 {
     //origins to specify the domain(client)}
+    //
     [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class TestController : ApiController
     {
